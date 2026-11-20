@@ -1,0 +1,17 @@
+# .NET build outputs
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Local test ROMs and third-party material (not redistributed)
+.testdata/
+*.sav
+
+# Generated screenshots / build artifacts
+artifacts/
+*.ppm
+
+# JetBrains Rider
+.idea/
